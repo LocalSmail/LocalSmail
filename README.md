@@ -22,6 +22,4 @@
 </a> -->)
 
 # Support me!
-<p align="center">
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8EBP1U)
-</p>
