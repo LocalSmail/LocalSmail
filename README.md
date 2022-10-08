@@ -22,11 +22,7 @@
 </a> -->)
 
 <p align="center">
-  Learning:
-</p>
-
-<p align="center">
-  <a href="https://redwoodjs.com/">RedWoodJS<a>
+  Learning: <a href="https://github.com/LocalSmail/Finity">FinityGui<a>
 </p>
 
 
