@@ -14,16 +14,12 @@
 </p>
 
 <p align="center">
-  Working on:
+  Working on: <a href="https://github.com/LocalSmail/Finity">FinityGui<a>
 </p>
 
 [comment]: <> (<a href="https://github.com/LocalSmail">
 <img width='49%' align="center"src="" />
 </a> -->)
-
-<p align="center">
-  Learning: <a href="https://github.com/LocalSmail/Finity">FinityGui<a>
-</p>
 
 
 
