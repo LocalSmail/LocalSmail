@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code as a hobby.<br>Lego Dev<br>Malware Dev<br>Full Stack Dev
+I code as a hobby.<br>Lego Dev<br>Malware Dev<br>Full Stack Dev<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/nhMJFPhzDu) 
 
 # 💻 Tech Stack:
