@@ -15,7 +15,6 @@ I code as a hobby.<br>Lego Dev<br>Malware Dev<br>Full Stack Dev<br>
 ![](https://github-readme-stats.vercel.app/api?username=LocalSmail&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LocalSmail&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LocalSmail&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br>[![](https://visitcount.itsvg.in/api?id=LocalSmail&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
 
