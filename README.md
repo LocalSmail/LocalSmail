@@ -1,5 +1,5 @@
 <p align="center"> 
-I code as a hobby.<br>Lego Dev<br>Malware Dev<br>Full Stack Dev<br>
+I code as a hobby.<br>Lego/Malware/Full Stack Dev<br>
 
 <img src="https://komarev.com/ghpvc/?username=LocalSmail&label=Profile%20views&color=5c12df&style=flat" alt="LocalSmail" />
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LocalSmail" alt="Profile Stars"></a>
